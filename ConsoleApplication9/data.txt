@@ -1,2 +1,3 @@
 Summed numbers:
-2838
+2378
+396

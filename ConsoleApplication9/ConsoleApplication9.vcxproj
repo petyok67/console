@@ -126,7 +126,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fucn.h" />
+    <ClInclude Include="func.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="data.json" />
